@@ -26,6 +26,10 @@ data/processed/
 *.pbit
 *.bak
 
+# Include CommerceIQ dashboard
+!dashboard/
+!dashboard/*.pbix
+
 # Editor and OS files
 .vscode/
 .DS_Store
